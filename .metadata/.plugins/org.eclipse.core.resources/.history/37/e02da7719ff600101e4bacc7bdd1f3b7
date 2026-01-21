@@ -1,0 +1,5 @@
+package lab.generics;
+
+public class NumberBox {
+
+}
